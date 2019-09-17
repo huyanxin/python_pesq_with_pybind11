@@ -4,7 +4,7 @@
 ## How to use 
 ### 1 clone current project and cd it 
 ```bash
-git clone https://github.com/huyanxin/python_pesq_with_pybind11/
+git clone https://github.com/huyanxin/python_pesq_with_pybind11.git
 cd python_pesq_with_pybind11
 ```
 
