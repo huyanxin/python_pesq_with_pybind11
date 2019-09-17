@@ -2,8 +2,13 @@
 # An easy python's wrapper for pesq with pybind11
 
 ## How to use 
+### 1 clone current project and cd it 
+```bash
+git clone https://github.com/huyanxin/python_pesq_with_pybind11/
+cd python_pesq_with_pybind11
+```
 
-### 1. clone pybind11 or ln -s already exit dir
+### 2. clone pybind11 or ln -s already exit dir
 
 ```bash 
 git clone  https://github.com/pybind/pybind11.git
@@ -14,13 +19,13 @@ Or
 ln -s your_exit_pybind11_dir .
 ```
 
-### 2. Compile project 
+### 3. Compile project 
 ```bash 
 mkdir build && cd build
 cmake ..
 make 
 ```
-### 3. use it 
+### 4. use it 
 
 ```python
 
